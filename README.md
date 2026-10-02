@@ -1,16 +1,8 @@
-# xo_game
+Splash Screen
 
-A new Flutter project.
+<img width="326" height="697" alt="image" src="https://github.com/user-attachments/assets/5379f651-645d-421b-a2ae-92eef266de50" />
 
-## Getting Started
+Home Screen
 
-This project is a starting point for a Flutter application.
+<img width="317" height="683" alt="image" src="https://github.com/user-attachments/assets/6882e93c-593c-4fbf-956e-872f339281af" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
